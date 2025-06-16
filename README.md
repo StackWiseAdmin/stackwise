@@ -1,2 +1,2 @@
-# SWADMIN
-STACKWISE DEV. AND PROG. CODE
+# stackwise
+AI Investing Assistant MVP
